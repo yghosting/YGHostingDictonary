@@ -1,5 +1,4 @@
-# Dictionary Web App - Frontend Mentor Challenge
-![Screenshot](./screenshot.webp)
+# Dictionary Web App 
 
 It appears that the project you're trying to run uses Vite as its build tool and development server. Here are the steps to run the `fem-dictionary-web-app` project on your localhost:
 
@@ -32,12 +31,6 @@ It appears that the project you're trying to run uses Vite as its build tool and
    ```
 
    This command will run Vite's development server, and the application will be accessible at a local URL, usually `http://localhost:8080` or a similar port.
-
-   Alternatively, you can use the specific `preview` script:
-
-   ```sh
-   npm run 
-   ```
 
    This will also start the development server.
 
